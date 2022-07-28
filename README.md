@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey 👋, I'm Bogdan Florea
+
+[![](https://img.shields.io/badge/-@floreabogdan-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/floreabogdan)
+[![](https://img.shields.io/badge/-@floreabogdan-%23181717?style=flat-square&logo=github)](https://github.com/floreabogdan)
+[![](https://img.shields.io/badge/-Bogdan%20Florea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flbogdan/)](https://www.linkedin.com/in/flbogdan/)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![floreabogdan's github stats](https://github-readme-stats.vercel.app/api?username=floreabogdan&show_icons=true&theme=dracula)
 
 <!--
 **floreabogdan/floreabogdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
